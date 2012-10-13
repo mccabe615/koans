@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+[remote "koans"]
+	url = git@github.com:mccabe615/koans.git
+	mirror = true
